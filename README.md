@@ -6,4 +6,5 @@ in North Africa and the Middle East, a model for one health'
 1- R .rmd file that was used to perform the analysis
 2- .docx file of the R code
 3- .xlsx file of the raw data used in the analysis
+
 # Before using, make sure the file paths are updated to point to locations on your machine or network
